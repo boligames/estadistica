@@ -23,8 +23,10 @@ El programa tiene la siguientes opciones y arroja la misma cantidad de resultado
 | 3 | Tabla a partir de columnas ya hechas  |
 
 ## Como empezar ...
-
+- Crear una cuenta en Deepnote como se muestra en el video ... ⏬⏬
+- Una vez logeado ingresar al siguiente [link](https://deepnote.com/workspace/boligames/project/STATS-qeCoc1AzQwWv_Wbi6-iX0g/%2Fstats.ipynb)
 [![Instalación](https://i.ibb.co/T07YGJN/miniatura-1.png)](https://youtu.be/sSPP52pwgts)
+
 
 
 <a name="item1"></a>
