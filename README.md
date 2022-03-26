@@ -41,7 +41,7 @@ tendrás algo como eso
 <a name="item1"></a>
 ## Caso 1 Calculo de tabla con tus propios numeros
 
-![](https://youtu.be/sSPP52pwgts)
+
 
 
 
