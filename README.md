@@ -20,7 +20,7 @@ El programa tiene la siguientes opciones y arroja la misma cantidad de resultado
 | ------ | ------ |
 | 1 | [Calculo de tabla con tus propios numeros](#item1)|
 | 2| [Crear aleatoriamente los datos](#item2) |
-| 3 | Tabla a partir de columnas ya hechas  |
+| 3 | [Tabla a partir de columnas ya hechas](#item3)  |
 
 ## Como empezar ...
 - Crear una cuenta en Deepnote como se muestra en el video ... ⏬⏬
