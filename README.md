@@ -33,7 +33,8 @@ El programa tiene la siguientes opciones y arroja la misma cantidad de resultado
 ## Caso 1 Calculo de tabla con tus propios numeros
 
 
+Si ya te dan los números a apartir de los cuales debes calcular la tabla sigue este video
 
 
-
+[![Primer Caso](https://i.ibb.co/7r5xdNp/MINIATURA-1-5.png)](https://youtu.be/UbVOHWpomBY)
 
