@@ -1,4 +1,5 @@
 
+![Link Al proyecto](https://deepnote.com/workspace/boligames/project/STATS-qeCoc1AzQwWv_Wbi6-iX0g/%2Fstats.ipynb)
 
 # Calculadora de tablas de frecuencia
 
