@@ -19,7 +19,7 @@ El programa tiene la siguientes opciones y arroja la misma cantidad de resultado
 |  | funcionalidad |
 | ------ | ------ |
 | 1 | [Calculo de tabla con tus propios numeros](#item1)|
-| 2| Crear aleatoriamente los datos |
+| 2| [Crear aleatoriamente los datos](#item2) |
 | 3 | Tabla a partir de columnas ya hechas  |
 
 ## Como empezar ...
@@ -43,5 +43,5 @@ Si ya te dan los números a apartir de los cuales debes calcular la tabla sigue 
 ## Caso 2 Calculo de tabla con numeros generados automáticamente
 Si no quieres crear los valores de manera manual para calcular la tabla ve el siguiente video ⏬⏬
 
-[![Primer Caso](https://i.ibb.co/87qb0Zz/miniatura-2.png)](https://youtu.be/czm7eF9f23M)
+[![Segundo Caso](https://i.ibb.co/87qb0Zz/miniatura-2.png)](https://youtu.be/czm7eF9f23M)
 
