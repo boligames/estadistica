@@ -45,3 +45,12 @@ Si no quieres crear los valores de manera manual para calcular la tabla ve el si
 
 [![Segundo Caso](https://i.ibb.co/87qb0Zz/miniatura-2.png)](https://youtu.be/czm7eF9f23M)
 
+
+<a name="item3"></a>
+## Caso 3 Calculo de la tabla cuando ya te dan partes de esta ... (Intervalos y Frecuencia Absoluta
+Si tienes las primeras filas (Intervalos y su frecuencia ve este video) ⏬⏬
+
+[![Tercer Caso](https://i.ibb.co/7K8x9J3/miniatura-3.png)](https://youtu.be/RTQjZVFCa3s)
+
+
+
